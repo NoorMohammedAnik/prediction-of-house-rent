@@ -1,6 +1,3 @@
-Absolutely! Here’s a polished **`README.md`** file you can use for this code — suitable for GitHub:
-
----
 
 ## 🏠 Simple House Price Predictor using Linear Regression
 
