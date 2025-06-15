@@ -38,3 +38,7 @@ predicted_price = model.predict([[area]])
 print(f"Predicted price: Tk {predicted_price[0]:,.2f}\n")
 
 print(f"Predicted price: Tk {int(predicted_price[0]):,}")
+
+#new code to save the model
+#github project
+
