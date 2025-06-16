@@ -102,12 +102,4 @@ pandas
 scikit-learn
 ```
 
----
 
-### 📝 **Author**
-
-This simple example was created to demonstrate basic linear regression using Python.
-
----
-
-Let me know if you'd like a version with usage examples, screenshots, or a ready-to-copy `requirements.txt`!
